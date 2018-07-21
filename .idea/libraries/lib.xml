@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/lib/fastjson-1.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/jsqlparser-0.9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/mybatis-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/mysql-connector-java-5.1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/pagehelper-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
